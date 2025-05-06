@@ -21,6 +21,13 @@ Throughout my career, I've honed my skills in various areas, including:
 
 ---
 
+### Cert & Publications
+- [Cloud Security using IBM Qradar SIEM : integrating Qradar with AWS](https://faun.pub/cloud-security-using-ibm-qradar-1fbf8eaafaaa)
+- [Survey on Homomorphic Encryption - IEEE](https://ieeexplore.ieee.org/document/9702486)
+- GitOps Fundamentals - Codefresh
+- Security Intelligence Engineer - Mastery Award - IBM
+- IT Fundamentals for Cybersecurity Specialization - IBM
+
 ### 🛠️ Tech Stack & Tools
 
 - **Infrastructure**: Terraform, Helm, Ansible, helmfile
@@ -28,7 +35,7 @@ Throughout my career, I've honed my skills in various areas, including:
 - **CI/CD**: GitHub Actions, Jenkins, ArgoCD, Argo workflows
 - **Cloud Providers**: Amazon Web Services(AWS), Google Cloud Platform(GCP)
 - **Monitoring & Logging**: Prometheus, Grafana, ELK Stack
-- **Security**: HashiCorp Vault, Snyk, Trivy, AWS IAM, IBM Qradar
+- **Security**: HashiCorp Vault, Snyk, Trivy, AWS IAM, IBM Qradar, Networking
 - **Languages/Scripting**: Bash, Python
 
 ---
