@@ -44,7 +44,7 @@ Throughout my career, I've honed my skills in various areas, including:
 
 - Deepening expertise in **Platform Engineering** patterns
 - Building **self-healing, scalable** systems
-- Exploring **eBPF**, **GitOps** practices, and **zero-trust security**
+- Exploring **eBPF**, **MCP servers**, and **zero-trust security**
 - Contributing more to **open-source** projects
 
 ---
